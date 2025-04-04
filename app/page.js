@@ -1,8 +1,8 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import Navbar from "./components/navbar/page";
-import Footer from "./components/footer/page";
+import Navbar from "./components/Navbar/page";
+import Footer from "./components/Footer/page";
 import { useRouter } from "next/navigation";
 import GridBackgroundDemo from "@/components/ui/grid-background-demo";
 

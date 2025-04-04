@@ -3,8 +3,8 @@
 
 import { useState, useEffect } from "react";
 import { supabase } from "../../../lib/supabase";
-import Navbar from "../../components/navbar/page";
-import Footer from "../../components/footer/page";
+import Navbar from "../../components/Navbar/page";
+import Footer from "../../components/Footer/page";
 
 // Import the newly created components
 import TemplateCard from "../../components/TemplateCard/page";
